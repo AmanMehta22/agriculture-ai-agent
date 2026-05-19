@@ -1,0 +1,7 @@
+ollama
+pypdf
+pymupdf
+pytesseract
+Pillow
+fastapi
+uvicorn
