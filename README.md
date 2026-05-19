@@ -240,3 +240,7 @@ ai_agent_demo/
 - Feasibility for limited expert automation: **HIGH**
 - Production readiness: **MODERATE** (needs governance layer)
 - Learning value: **EXCELLENT** (routing, logging, persistence patterns)
+=======
+# agriculture-ai-agent
+An ai agent used to get the information 
+>>>>>>> 4ad9075fa6be197a15457825329d27d667346a8c
