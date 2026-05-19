@@ -21,3 +21,6 @@ pop_bank_cache.json
 # System files
 .DS_Store
 Thumbs.db
+
+pop_bank_index.json
+pop_bank_loaded.json
